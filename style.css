@@ -1,0 +1,102 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-image: url(./img/img/pattern.png);
+    background-size: 20%;
+    background-color: rgb(0, 94, 255);
+}
+
+header img{
+    margin-left: 10%;
+    margin-top: 30px;
+    width: 20%;
+}
+
+main {
+    margin: 0 auto;
+    width: 80%;
+}
+
+h2{
+    padding-top: 15px;
+}
+
+h6{
+    color: grey;
+    padding-bottom: 10px;
+}
+
+.thebooleaner{
+    color: rgb(0, 94, 255);;
+}
+
+div img{
+    padding-top: 10px;
+}
+
+.evidence {
+    background-color: yellow;
+}
+
+p {
+    margin-top: 10px;
+}
+
+ul{
+    margin-left: 1em;
+    padding-top: 20px;
+}
+
+thead{
+    background-color: rgb(0, 94, 255);
+    color: white;
+    text-align: left;
+}
+
+.background-blue{
+    background-color: aqua;
+}
+
+table {
+    margin-top: 15px;
+    border-collapse: collapse;
+}
+
+h5{
+    margin-top: 20px;
+}
+
+.boc{
+    width: 150px;
+    height: 150px;
+    color: white;
+}
+
+footer{
+    margin: 0 auto;
+    width: 80%;
+}
+
+.monitor1{
+    text-align: center;
+  background-image: url("./img/img/monitor.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #FFFFFF;
+  width: 150px;
+  height: 150px;
+}
+
+.monitor2{
+    text-align: center;
+    background-image: url("./img/img/graph.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    width: 150px;
+    height: 150px;
+}
